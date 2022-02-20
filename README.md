@@ -1,6 +1,6 @@
 - 👋 Hi, I’m The_pradnya01
 - 👀 I’m interested in Coding, Web Development and AI.
-- 🌱 I’m currently learning FDS and Web Development.
+- 🌱 I’m currently learning DSA and Web Development.
 - 💞️ I’m looking to collaborate on ().
 - 📫 How to reach me: instagram- @pradnya_skulkarni
 
