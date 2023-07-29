@@ -3,7 +3,7 @@
 - 🌱 I’m currently Practicing DSA and Web Development.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me: instagram- @pradnya_637
--                    
+                     
 
 <!---
 Thepradnya01/Thepradnya01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
